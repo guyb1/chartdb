@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/guyb1/chartdb/compare/v1.1.0...v1.1.1) (2024-11-04)
+
+
+### Bug Fixes
+
+* test guy ([89bb4ff](https://github.com/guyb1/chartdb/commit/89bb4ff8d436ba6a3dc989e9d998f0efba7cc02b))
+
 ## [1.1.0](https://github.com/guyb1/chartdb/compare/v1.0.0...v1.1.0) (2024-11-04)
 
 
